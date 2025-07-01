@@ -40,6 +40,9 @@ Working Video URL:https://drive.google.com/file/d/1OIIVz05EsQBrl75pX82piWsKyO0hZ
 ---
 
 Architecture Diagram:
-![image](https://github.com/user-attachments/assets/d153dd98-9b25-4b09-8bea-69ed68b5257a)
 
+![image](https://github.com/Siddharthb04/Todo-Task/blob/5b429d6b502802b416a811d03bed480a9fe17d8c/Architecture.png)
 
+---
+
+This project is a part of a hackathon run by https://www.katomaran.com
